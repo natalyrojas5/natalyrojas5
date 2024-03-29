@@ -17,3 +17,5 @@ Mi enfoque se centra en el desarrollo frontend, pero tambi√©n tengo la aspiraci√
 [![](/social-media/linkedin.svg)](https://www.linkedin.com/in/nataly-rojas/)
 [![](/social-media/tiktok.svg)](https://www.tiktok.com/@frontendgreen)
 [![](/social-media/twitter.svg)](https://twitter.com/natalyrojasdev)
+
+[Portafolio](https://portafolio-natdev-inky.vercel.app/)
