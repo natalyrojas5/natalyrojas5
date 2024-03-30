@@ -1,4 +1,4 @@
-![Portada](portada.png)
+![Portada](/social-media/graph.png)
 
 <center>
 
