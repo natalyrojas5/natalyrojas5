@@ -7,9 +7,12 @@
 - 📚 Estoy profundizando en el **desarrollo frontend** y comenzando a explorar el **backend**.
 - 👩‍💻 Actualmente estoy trabajando en proyectos personales y colaborativos.
 
+### 🔹 Stack Principal: **TypeScript**
+- Uso intensivo de TypeScript para desarrollo, asegurando un código más limpio, tipado y escalable.
+
 ## 🛠️ Tecnologías y Habilidades
-- **Frontend**: HTML, CSS, JavaScript, React, Next.js
-- **Backend**: (En proceso de aprendizaje)
+- **Frontend**: HTML, CSS, JavaScript, Typescript, React Native
+- **Backend**: Nest, Node (En proceso de aprendizaje)
 - **Herramientas**: Git, Figma, Jest
 
 ## 📊 Estadísticas de GitHub
