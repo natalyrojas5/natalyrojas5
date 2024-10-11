@@ -18,10 +18,5 @@
 ## 📊 Estadísticas de GitHub
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalyrojas5&show_icons=true&theme=transparent)
 
-## 🌐 Encuéntrame en
-[![LinkedIn](./social-media/linkedin.svg)](https://www.linkedin.com/in/nataly-rojas/) 
-[![TikTok](./social-media/tiktok.svg)](https://www.tiktok.com/@frontendgreen) 
-[![Twitter](./social-media/twitter.svg)](https://twitter.com/natalyrojasdev)
-
 ## 💼 [Portafolio](https://portafolio-natdev-inky.vercel.app/)
 Visita mi portafolio para conocer más sobre mis proyectos y el trabajo que he realizado.
