@@ -1,21 +1,24 @@
-![Portada](/social-media/graph.png)
+![Portada](./social-media/graph.png)
 
-<center>
+## 🟢 Sobre Mí
+¡Hola! Soy **Nataly**, una desarrolladora frontend apasionada por el código y siempre en búsqueda de nuevos aprendizajes.
 
-</center>
+### 🚀 En este momento...
+- 📚 Estoy profundizando en el **desarrollo frontend** y comenzando a explorar el **backend**.
+- 👩‍💻 Actualmente estoy trabajando en proyectos personales y colaborativos.
 
-## 🟢 Acerca de mi
+## 🛠️ Tecnologías y Habilidades
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js
+- **Backend**: (En proceso de aprendizaje)
+- **Herramientas**: Git, Figma, Jest
 
-Mi nombre es Nataly, soy una apasionada por el código y con el deseo constante de aprender algo nuevo cada día.
+## 📊 Estadísticas de GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalyrojas5&show_icons=true&theme=transparent)
 
-## 🟢 Actualmente
+## 🌐 Encuéntrame en
+[![LinkedIn](./social-media/linkedin.svg)](https://www.linkedin.com/in/nataly-rojas/) 
+[![TikTok](./social-media/tiktok.svg)](https://www.tiktok.com/@frontendgreen) 
+[![Twitter](./social-media/twitter.svg)](https://twitter.com/natalyrojasdev)
 
-Mi enfoque se centra en el desarrollo frontend, pero también tengo la aspiración de explorar y conocer más acerca del fascinante mundo del backend.
-
-## 🟢 Redes Sociales
-
-[![](/social-media/linkedin.svg)](https://www.linkedin.com/in/nataly-rojas/)
-[![](/social-media/tiktok.svg)](https://www.tiktok.com/@frontendgreen)
-[![](/social-media/twitter.svg)](https://twitter.com/natalyrojasdev)
-
-[Portafolio](https://portafolio-natdev-inky.vercel.app/)
+## 💼 [Portafolio](https://portafolio-natdev-inky.vercel.app/)
+Visita mi portafolio para conocer más sobre mis proyectos y el trabajo que he realizado.
