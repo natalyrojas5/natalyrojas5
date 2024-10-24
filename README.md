@@ -16,7 +16,10 @@
 - **Herramientas**: Git, Figma, Jest
 
 ## 📊 Estadísticas de GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=natalyrojas5&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=natalyrojas5&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=natalyrojas5&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=natalyrojas5&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 💼 [Portafolio](https://portafolio-natdev-inky.vercel.app/)
 Visita mi portafolio para conocer más sobre mis proyectos y el trabajo que he realizado.
