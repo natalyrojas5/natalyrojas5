@@ -1,10 +1,9 @@
 ![Portada](./social-media/graph.png)
 
 ## 🟢 Sobre Mí
-¡Hola! Soy **Nataly**, una desarrolladora frontend apasionada por el código y siempre en búsqueda de nuevos aprendizajes.
+¡Hola! Soy **Nataly**, una programadora apasionada por el código y siempre en búsqueda de nuevos aprendizajes.
 
 ### 🚀 En este momento...
-- 📚 Estoy profundizando en el **desarrollo backend**.
 - 👩‍💻 Actualmente estoy trabajando en proyectos personales y colaborativos.
 
 ### 🔹 Stack Principal: **TypeScript**
