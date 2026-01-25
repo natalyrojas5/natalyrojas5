@@ -10,9 +10,9 @@
 - Uso intensivo de TypeScript para desarrollo, asegurando un código más limpio, tipado y escalable.
 
 ## 🛠️ Tecnologías y Habilidades
-- **Frontend**: HTML, CSS, JavaScript, Typescript, React Native
+- **Frontend**: Typescript, React, Angular
 - **Backend**: Nest, Node
-- **Herramientas**: Git, Figma, Jest
+- **Herramientas**: Git, Figma
 
 ## 📊 Estadísticas de GitHub
 ![](https://github-readme-stats.vercel.app/api?username=natalyrojas5&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
