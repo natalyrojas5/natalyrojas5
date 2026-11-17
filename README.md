@@ -1,5 +1,3 @@
-![Portada](./social-media/graph.png)
-
 ## 🟢 Sobre Mí
 ¡Hola! Soy **Nataly**, una programadora apasionada por el código y siempre en búsqueda de nuevos aprendizajes.
 
